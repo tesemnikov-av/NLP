@@ -1,6 +1,10 @@
 # NLP
 
-
+###Сумаризация текста
+Берт:
+https://habr.com/ru/post/566486/
+Text rank 
+http://igorshevchenko.ru/blog/entries/textrank
 
 Разметка тональности слов на русском
 
@@ -13,8 +17,7 @@ https://www.kaggle.com/c/lenta-ru-ozon-2020/data?select=lenta-ru-train.csv
 Deeppavlov
 Rasa
 
-Text rank 
-http://igorshevchenko.ru/blog/entries/textrank
+
 
 David Notepad
 https://gist.github.com/avidale/cacf235aebeaaf4c578389e1146c3c57#file-bert-ner-ru-ipynb
