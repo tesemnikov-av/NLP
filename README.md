@@ -20,6 +20,10 @@ David Notepad
 https://gist.github.com/avidale/cacf235aebeaaf4c578389e1146c3c57#file-bert-ner-ru-ipynb
 
 Индексирование
+https://www.youtube.com/watch?v=ZuUnlJFWPkA&list=RDCMUCMH211UPVhGz5WR9sNCatcg&index=1&ab_channel=VolodyaMozhenkov
+
+Биг О натация
+
 
 Лекции NLP
 
