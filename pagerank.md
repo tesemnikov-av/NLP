@@ -1,4 +1,4 @@
-
+Разообраться в алгоритме и сделать визуализацию графов
 
 ```python
 from itertools import combinations
