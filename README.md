@@ -20,6 +20,8 @@ https://docs.ampligraph.org/en/1.2.0/index.html
 Deeppavlov
 Rasa
 
+word2vec домножить на коэфицент tf idf
+
 
 
 David Notepad
