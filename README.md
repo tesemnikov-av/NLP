@@ -22,6 +22,8 @@ Rasa
 
 word2vec домножить на коэфицент tf idf
 
+сглаживание КНЕЗЕРА НЕЯ
+
 
 
 David Notepad
