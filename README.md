@@ -6,6 +6,11 @@ https://habr.com/ru/post/566486/
 Text rank 
 http://igorshevchenko.ru/blog/entries/textrank
 
+
+
+https://simpletransformers.ai/docs/classification-models/
+https://huggingface.co/transformers/training.html
+
 взаимная поточечная информация: теория информации - те слова которые реже встречаются вместе, имеют больше информации! анализ романов те что часто встречаются коллокациинапример сан франциско
 
 Разметка тональности слов на русском
