@@ -6,6 +6,7 @@ https://habr.com/ru/post/566486/
 Text rank 
 http://igorshevchenko.ru/blog/entries/textrank
 
+девергенция кульбака лейблера это расстояние между распределениями
 
 
 https://simpletransformers.ai/docs/classification-models/
