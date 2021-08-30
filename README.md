@@ -9,6 +9,9 @@ http://igorshevchenko.ru/blog/entries/textrank
 девергенция кульбака лейблера это расстояние между распределениями
 
 
+word2vec для аугментации данных или переписыва6ия романа 
+
+
 https://simpletransformers.ai/docs/classification-models/
 https://huggingface.co/transformers/training.html
 
