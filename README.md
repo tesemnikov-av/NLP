@@ -6,6 +6,8 @@ https://habr.com/ru/post/566486/
 Text rank 
 http://igorshevchenko.ru/blog/entries/textrank
 
+взаимная поточечная информация: теория информации - те слова которые реже встречаются вместе, имеют больше информации! анализ романов 
+
 Разметка тональности слов на русском
 
 https://github.com/Helsinki-NLP/XED/blob/master/Projections/ru-projections.tsv
