@@ -4,6 +4,7 @@
 * кластеризация dbscan 
 * поиск дубликатов | алгоритм шинглов
 * суммаризация textrank + spacy ; bert; autoencoder; kmeans(кластеризацию + предл ближе к центроиды
+https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb
 * исправление опечаток ЛИВЕНШТЕЙН
 * ПЕРЕПИСЫВАНИЕ ТЕКСТА word2vec svd lsa
 * извлечение именованных сущностей
