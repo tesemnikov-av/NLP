@@ -7,7 +7,7 @@
 https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb
 https://medium.com/analytics-vidhya/text-summarization-using-spacy-ca4867c6b744
 https://medium.com/genesis-media/how-we-create-headlines-in-the-russian-language-by-means-of-ml-e859b299ddc5
-* исправление опечаток ЛИВЕНШТЕЙН
+* исправление опечаток ЛИВЕНШТЕЙН и fastapi
 * ПЕРЕПИСЫВАНИЕ ТЕКСТА word2vec svd lsa
 * Тематическое моделирование
 * извлечение именованных сущностей
