@@ -7,6 +7,7 @@
 https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb
 * исправление опечаток ЛИВЕНШТЕЙН
 * ПЕРЕПИСЫВАНИЕ ТЕКСТА word2vec svd lsa
+* Тематическое моделирование
 * извлечение именованных сущностей
 * генерация текста 
 * чат бот 
