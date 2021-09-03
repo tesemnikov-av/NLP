@@ -3,6 +3,7 @@
 * класификация logreg 
 * кластеризация dbscan 
 * поиск дубликатов | алгоритм шинглов minHASH
+* чат бот постит суммаризацию новостей
 * суммаризация textrank + spacy ; bert; autoencoder; kmeans(кластеризацию + предл ближе к центроиды
 https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb
 https://medium.com/analytics-vidhya/text-summarization-using-spacy-ca4867c6b744
