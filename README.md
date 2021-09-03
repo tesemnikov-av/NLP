@@ -10,6 +10,7 @@ https://medium.com/genesis-media/how-we-create-headlines-in-the-russian-language
 * исправление опечаток ЛИВЕНШТЕЙН и fastapi
 * ПЕРЕПИСЫВАНИЕ ТЕКСТА word2vec svd lsa
 * Тематическое моделирование
+* text to speech https://github.com/tesemnikov-av/deep_learning_2018-19/blob/master/21.%20Text2Speech/%5Bseminar%5Dtext_to_speech.ipynb
 * извлечение именованных сущностей
 * генерация текста 
 * чат бот 
