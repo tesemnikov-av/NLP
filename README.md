@@ -3,6 +3,7 @@
 * класификация logreg 
 * кластеризация dbscan 
 * поиск дубликатов | алгоритм шинглов minHASH
+* bert sber https://huggingface.co/sberbank-ai/sbert_large_nlu_ru
 * чат бот постит суммаризацию новостей
 * суммаризация textrank + spacy ; bert; autoencoder; kmeans(кластеризацию + предл ближе к центроиды
 https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb
