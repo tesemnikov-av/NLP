@@ -14,7 +14,7 @@
 https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb
 https://medium.com/analytics-vidhya/text-summarization-using-spacy-ca4867c6b744
 https://medium.com/genesis-media/how-we-create-headlines-in-the-russian-language-by-means-of-ml-e859b299ddc5
-* исправление опечаток ЛИВЕНШТЕЙН и fastapi
+* исправление опечаток ЛИВЕНШТЕЙН и fastapi,word, jamspell, autocorrect
 * ПЕРЕПИСЫВАНИЕ ТЕКСТА word2vec svd lsa # https://freelancehunt.com/out/https%3A%2F%2Fhabr.com%2Fru%2Fpost%2F564916%2F
 * Тематическое моделирование
 * text to speech https://github.com/tesemnikov-av/deep_learning_2018-19/blob/master/21.%20Text2Speech/%5Bseminar%5Dtext_to_speech.ipynb
