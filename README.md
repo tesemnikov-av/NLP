@@ -4,6 +4,7 @@
 * кластеризация dbscan 
 * обучение word2vec glove 
 * rnn генерация высоцкий на уровне слов 
+* negativ log likehood
 * skip connection 
 * shap values for text
 * поиск дубликатов | алгоритм шинглов minHASH
