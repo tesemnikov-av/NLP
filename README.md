@@ -2,6 +2,7 @@
 
 * класификация logreg 
 * spacy ГРАФЫ knowledge grapf https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
+* knowledge graph https://neptune.ai/blog/web-scraping-and-knowledge-graphs-machine-learning
 * кластеризация dbscan 
 * парафраз https://habr.com/ru/post/564916/ + https://github.com/avidale/python-ruwordnet/
 * обучение word2vec glove 
