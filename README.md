@@ -1,6 +1,7 @@
 # NLP
 
 * класификация logreg 
+* spacy ГРАФЫ knowledge grapf https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
 * кластеризация dbscan 
 * парафраз https://habr.com/ru/post/564916/ + https://github.com/avidale/python-ruwordnet/
 * обучение word2vec glove 
