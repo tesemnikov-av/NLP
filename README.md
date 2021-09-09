@@ -4,6 +4,7 @@
 * кластеризация dbscan 
 * обучение word2vec glove 
 * rnn генерация высоцкий на уровне слов 
+* beam search
 * negativ log likehood
 * skip connection 
 * shap values for text
