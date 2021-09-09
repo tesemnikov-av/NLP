@@ -8,6 +8,7 @@
 * beam search
 * negativ log likehood
 * skip connection 
+* relation extraction
 * shap values for text
 * поиск дубликатов | алгоритм шинглов minHASH
 * bert sber https://huggingface.co/sberbank-ai/sbert_large_nlu_ru
