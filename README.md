@@ -2,6 +2,7 @@
 
 * класификация logreg 
 * кластеризация dbscan 
+* парафраз https://habr.com/ru/post/564916/ + https://github.com/avidale/python-ruwordnet/
 * обучение word2vec glove 
 * rnn генерация высоцкий на уровне слов 
 * beam search
