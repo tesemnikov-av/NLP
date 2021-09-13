@@ -8,6 +8,7 @@
 * парафраз https://habr.com/ru/post/564916/ + https://github.com/avidale/python-ruwordnet/
 * обучение word2vec glove 
 * rnn генерация высоцкий на уровне слов 
+* NER deeppavlov http://docs.deeppavlov.ai/en/master/features/models/ner.html#multilingual-bert-zero-shot-transfer
 * beam search
 * negativ log likehood
 * skip connection 
