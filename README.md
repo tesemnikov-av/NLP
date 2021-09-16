@@ -1,7 +1,7 @@
 # NLP
 
 * класификация logreg 
-* поиск elastic search bm25
+* поиск по документам elastic search gensim.bm25
 * spacy ГРАФЫ knowledge grapf https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
 * knowledge graph https://neptune.ai/blog/web-scraping-and-knowledge-graphs-machine-learning
 * кластеризация dbscan 
