@@ -1,5 +1,6 @@
 # NLP
 
+* Графы. NLP https://www.kaggle.com/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk
 * класификация logreg 
 * поиск по документам elastic search gensim.bm25
 * spacy ГРАФЫ knowledge grapf https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
@@ -77,7 +78,8 @@ word2vec домножить на коэфицент tf idf
 
 
 
-David Notepad
+
+d Notepad
 https://gist.github.com/avidale/cacf235aebeaaf4c578389e1146c3c57#file-bert-ner-ru-ipynb
 
 Индексирование
