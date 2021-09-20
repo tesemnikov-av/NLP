@@ -1,5 +1,6 @@
 # NLP
 
+* yargy parser
 * Графы. NLP https://www.kaggle.com/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk
 * класификация logreg 
 * поиск по документам elastic search gensim.bm25
