@@ -2,6 +2,8 @@
 в обоих случаях она не имеет обратную матрицу, что требуется для аналитического решения.
 
 Total variation in-painting - востановление картинок
+https://www.cvxpy.org/examples/applications/tv_inpainting.html
+
 
 Логарифм Штрасса для быстрого умножения матриц
 
