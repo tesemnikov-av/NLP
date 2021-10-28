@@ -1,0 +1,3 @@
+
+* https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEppZTBSMTFzLVQ4X3l6MmRCT3RJc1h5NGU4d3xBQ3Jtc0tsanNRaGJ6a0IxdUpCeXBKVlRxRkNGM3hpeHpDdGhYVGhtTUxZUUZveXhMbFZ2S2xkSWs1QzhkTHZCUm5YVHJ5RVFHU2RjZUFCVk9oS29XdWUxNVljN1FvUVg0dlpWcUh5R0xzeVJHLVhnMXVBU0Mxdw&q=https%3A%2F%2Fgithub.com%2FErlemar%2FErlemar.github.io%2Fblob%2Fmaster%2FNotebooks%2Fner_sberloga.ipynb
+* 
