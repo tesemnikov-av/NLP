@@ -1,3 +1,9 @@
+https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/ner_sberloga.ipynb
 
-* https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEppZTBSMTFzLVQ4X3l6MmRCT3RJc1h5NGU4d3xBQ3Jtc0tsanNRaGJ6a0IxdUpCeXBKVlRxRkNGM3hpeHpDdGhYVGhtTUxZUUZveXhMbFZ2S2xkSWs1QzhkTHZCUm5YVHJ5RVFHU2RjZUFCVk9oS29XdWUxNVljN1FvUVg0dlpWcUh5R0xzeVJHLVhnMXVBU0Mxdw&q=https%3A%2F%2Fgithub.com%2FErlemar%2FErlemar.github.io%2Fblob%2Fmaster%2FNotebooks%2Fner_sberloga.ipynb
-* 
+```python
+!pip install deeppavlov > /dev/null
+from deeppavlov import configs, build_model
+
+ner_model = build_model(configs.ner.ner_ontonotes_bert_mult_torch, download=True)
+ner_model(['Когда Курт Кобейн родился в США заяц хрюкнул'])
+```
