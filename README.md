@@ -3,7 +3,7 @@
 * ELI5 https://www.kaggle.com/lopuhin/eli5-example
 *  Граф знаний ods 
 *  * huggingface (David Dale Fine Tuning)
-*  NER (Лукьяненко) https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEppZTBSMTFzLVQ4X3l6MmRCT3RJc1h5NGU4d3xBQ3Jtc0tsanNRaGJ6a0IxdUpCeXBKVlRxRkNGM3hpeHpDdGhYVGhtTUxZUUZveXhMbFZ2S2xkSWs1QzhkTHZCUm5YVHJ5RVFHU2RjZUFCVk9oS29XdWUxNVljN1FvUVg0dlpWcUh5R0xzeVJHLVhnMXVBU0Mxdw&q=https%3A%2F%2Fgithub.com%2FErlemar%2FErlemar.github.io%2Fblob%2Fmaster%2FNotebooks%2Fner_sberloga.ipynb
+*  NER (Лукьяненко) https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/ner_sberloga.ipynb
 * pytorch ner
 * Графы знаний ODS КУРС https://ods.ai/tracks/kgcourse2021/blocks/7b7e102d-f61e-4349-a8ea-440f6dd50bb4
 * yargy parser https://www.youtube.com/watch?v=NQxzx0qYgK8&ab_channel=%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D0%BD%D0%B0%D1%83%D0%BA%D0%B8
